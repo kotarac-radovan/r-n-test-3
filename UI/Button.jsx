@@ -1,5 +1,5 @@
 import { View, Text, Pressable, StyleSheet } from 'react-native'
-import { GlobalStyles } from '../../constants/styles'
+import { GlobalStyles } from '../constants/styles'
 
 
 export default function Button({children, onPress, mode, style}) {
